@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarcAndreKaiser
 - 👀 I’m interested in Python, SQL, Geopandas
-- 🌱 I’m currently learning Geopandas
+- 🌱 I’m currently learning Streamlit
 
 <!---
 MarcAndreKaiser/MarcAndreKaiser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
